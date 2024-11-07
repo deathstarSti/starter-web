@@ -2,4 +2,6 @@
 
 ##introduction
 
+##details
+
 ##purpose
